@@ -1,5 +1,0 @@
-INDEX VERSION 1.129+/Users/stevechen/Documents/workspace/learning-java/.metadata/.plugins/org.eclipse.jdt.core
-964919715.index
-1639639420.index
-3544307325.index
-3781711079.index
